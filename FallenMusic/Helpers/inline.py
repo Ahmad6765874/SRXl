@@ -39,7 +39,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
             ],
             [
-            InlineKeyboardButton("⦓ ѕᴏᴜʀᴄᴇ القويه 𖤛⦔", url=f"https://t.me/nbsxop"),
+            InlineKeyboardButton("⦓ ѕᴏᴜʀᴄᴇ القويه 𖤛⦔", url=f"https://t.me/SCSRR"),
         ]
     ]
 )
@@ -59,7 +59,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/l_u22"
+            text="• مطوࢪ السورس •", url="https://t.me/CZCRR"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
@@ -79,7 +79,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/l_u22"
+            text="• مطوࢪ السورس •", url="https://t.me/CZCRR"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
